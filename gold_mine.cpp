@@ -1,5 +1,5 @@
 //https://www.geeksforgeeks.org/gold-mine-problem/
-Self Implementation
+//Self Implementation
 
 #include<bits/stdc++.h>
 using namespace std;
